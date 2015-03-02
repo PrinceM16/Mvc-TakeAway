@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc_TakeAway", "Mvc-TakeAway\Mvc_TakeAway.csproj", "{FDCCAEE5-FCE5-4772-AD16-5010DFB8D28A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc_TakeAway.Tests", "Mvc_TakeAway.Tests\Mvc_TakeAway.Tests.csproj", "{16893560-86E5-40A6-A742-E09B62090692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDCCAEE5-FCE5-4772-AD16-5010DFB8D28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCCAEE5-FCE5-4772-AD16-5010DFB8D28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCCAEE5-FCE5-4772-AD16-5010DFB8D28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCCAEE5-FCE5-4772-AD16-5010DFB8D28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16893560-86E5-40A6-A742-E09B62090692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16893560-86E5-40A6-A742-E09B62090692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16893560-86E5-40A6-A742-E09B62090692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16893560-86E5-40A6-A742-E09B62090692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
